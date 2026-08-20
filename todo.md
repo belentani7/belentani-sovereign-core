@@ -6,5 +6,5 @@
 - [x] Crear el repositorio privado `belentani-sovereign-core` en GitHub.
 - [x] Configurar el origen remoto local y realizar el commit de la versión corregida.
 - [x] Subir la rama principal (`main`) al repositorio remoto.
-- [ ] Verificar el contenido remoto mediante la CLI de GitHub.
-- [ ] Entregar el informe final con enlace, pruebas y limitaciones.
+- [x] Verificar el contenido remoto mediante la CLI de GitHub.
+- [x] Entregar el informe final con enlace, pruebas y limitaciones.
