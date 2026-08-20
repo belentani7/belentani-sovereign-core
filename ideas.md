@@ -117,9 +117,10 @@ Recursos generados para el sistema:
 
 Material importado desde Google Drive:
 
-- `PEDRO-REFERENCIA-01.png` → `/manus-storage/pedro-referencia-01_4059d1fa.png`
 - `pedro-rizado-barba-perfil-01.jpg` → `/manus-storage/pedro-rizado-perfil-01_e71f5fd9.jpg`
 - `pedro-rizado-barba-perfil-02.jpg` → `/manus-storage/pedro-rizado-perfil-02_4259f0f0.jpg`
+
+La imagen `PEDRO-REFERENCIA-01.png` fue descartada y no se utiliza en ninguna ruta.
 
 ## Decisiones de implementación
 

@@ -42,7 +42,7 @@ JUDAS se mantiene sellado. En esta entrega no hay reproductor, waveform, audio, 
 
 ## Material visual
 
-Las escenas principales usan recursos generados específicamente para BELENTANI. La home y las rutas editoriales también incorporan tres imágenes visuales autorizadas desde Google Drive: `PEDRO-REFERENCIA-01.png`, `pedro-rizado-barba-perfil-01.jpg` y `pedro-rizado-barba-perfil-02.jpg`. Estas imágenes se presentan como evidencia de archivo procesada con oscurecimiento, recorte, grano conceptual y anotaciones de campo; no se muestran como fotografía casual sin tratamiento.
+Las escenas principales usan recursos generados específicamente para BELENTANI. Las rutas editoriales incorporan dos imágenes visuales autorizadas desde Google Drive: `pedro-rizado-barba-perfil-01.jpg` y `pedro-rizado-barba-perfil-02.jpg`. Se presentan como evidencia de archivo procesada con oscurecimiento, recorte, grano conceptual y anotaciones de campo; no se muestran como fotografía casual sin tratamiento. La referencia `PEDRO-REFERENCIA-01.png` fue descartada y no forma parte de la interfaz.
 
 No se descargó, reprodujo ni expuso material de audio de JUDAS. El resto del contenido localizado en Drive queda fuera de esta versión hasta que el autor confirme qué archivos deben entrar en el archivo público.
 

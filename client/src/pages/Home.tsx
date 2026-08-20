@@ -59,7 +59,7 @@ export default function Home() {
       </section>
 
       <section className="image-band-section" aria-labelledby="image-band-title">
-        <ImageScene src="/manus-storage/pedro-referencia-01_4059d1fa.png" alt="Imagen de referencia de Pedro procedente del archivo autorizado" className="image-band-portrait" label="THE ARTIST / DRIVE REFERENCE" number="04" />
+        <ImageScene src="/manus-storage/belentani-portal-field_d36da389.jpg" alt="Fisura roja en un campo oscuro del archivo BELENTANI" className="image-band-portrait" label="FIELD / THRESHOLD SIGNAL" number="04" />
         <div className="image-band-copy"><p className="display-kicker">{copy.pages.artist.eyebrow}</p><h2 id="image-band-title">Una identidad<br /><em>no se resume.</em></h2><p>{copy.pages.artist.summary}</p><Link href="/artist" className="editorial-link"><span>{copy.pages.artist.action}</span><ArrowUpRight size={16} /></Link></div>
       </section>
 
