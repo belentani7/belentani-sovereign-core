@@ -1,10 +1,8 @@
-# BELENTANI — Subida Autónoma a GitHub
+# BELENTANI — Mejora Autónoma y Sincronización
 
-- [x] Retirar la imagen no deseada de la home y actualizar documentación.
-- [x] Comprobar compilación y build con pnpm check y pnpm build.
-- [x] Habilitar la integración de GitHub y verificar la autenticación.
-- [x] Crear el repositorio privado `belentani-sovereign-core` en GitHub.
-- [x] Configurar el origen remoto local y realizar el commit de la versión corregida.
-- [x] Subir la rama principal (`main`) al repositorio remoto.
-- [x] Verificar el contenido remoto mediante la CLI de GitHub.
-- [x] Entregar el informe final con enlace, pruebas y limitaciones.
+- [x] Auditar metadatos, accesibilidad y estructura de páginas.
+- [ ] Mejorar los títulos y metaetiquetas OpenGraph/SEO en index.html.
+- [ ] Ampliar las notas de campo y los estados de accesibilidad en las páginas editoriales.
+- [ ] Validar con `pnpm check` y `pnpm build`.
+- [ ] Sincronizar los cambios con el repositorio privado de GitHub (`belentani7/belentani-sovereign-core`).
+- [ ] Entregar el informe técnico y de pruebas definitivo.
